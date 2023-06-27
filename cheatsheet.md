@@ -4,6 +4,9 @@ i - insert before
 a - insert(append) after
 o - create new line and insert
 A - jump to end of line and insert
+I - jump to start of line and insert
+y - yank (copy) *This can be combined with any of the navigation commands*
+d - delete *This can be combined with any of the navigation commands*
 
 ----------
 
